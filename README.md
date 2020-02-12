@@ -7,11 +7,11 @@
 
 # Documentation
 
-[- Documentation of the extension.](https://github.com/mlurbe97/ArduSim-MUSCOP-Protocol-SRM/tree/master/doc)
+[- Documentation of the extension.](https://github.com/mlurbe97/ArduSim-MUSCOP-Protocol-SRM/blob/master/doc/MUSCOP_extension.pdf)
 
 ## Development and testing
 
-Replace *muscop* package of this repo in ardusim oficial *muscop* package (official repo doesn't contains the extension yet):
+Replace *muscop* package of this repo in ardusim official *muscop* package (official repo doesn't contains the extension yet):
 
 ArduSim Git:
 https://bitbucket.org/frafabco/ardusim/src/master/
